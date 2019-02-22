@@ -2,7 +2,7 @@
 ## Author
 Alex Omaset
 ## Description
-Triangle tracker is an app that allows the user to calculate the area of a triangle and know the type of triangle.
+Quizboard is an app that allows a student to take a test online and submitt the answers then returns the marks scored
 ## Set-up requirements
 * PC
 * Google chrome/Mozilla
@@ -14,7 +14,6 @@ Triangle tracker is an app that allows the user to calculate the area of a trian
 |  |<br><br>||
 |  | <br><br>| |
 |  | <br><br>|
-|
 ## Technologies Used
 * Html
 * Css
