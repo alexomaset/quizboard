@@ -7,11 +7,11 @@ Quizboard is an app that allows a student to take a test online and submitt the 
 * PC
 * Google chrome/Mozilla
 * Atom/Code
-* Link
+* Link https://alexomaset.github.io/quizboard/
 ## BDD
 | Behaviour | Input | Output |
-| --- | --- | --- |
-|  |<br><br>||
+| ----------| ---   | ---    |
+| click on answer ||
 |  | <br><br>| |
 |  | <br><br>|
 ## Technologies Used
