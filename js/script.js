@@ -7,7 +7,7 @@ $(document).ready(function() {
     var q4 = parseInt($("input:radio[name=4]:checked").val());
     var q5 = parseInt($("input:radio[name=5]:checked").val());
 
-    //empty list
+    //empty 
     var sum1 = q1 + q2 + q3 + q4 + q5
     var result = '';
 
