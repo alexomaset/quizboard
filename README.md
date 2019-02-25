@@ -11,9 +11,9 @@ Quizboard is an app that allows a student to take a test online and submitt the 
 ## BDD
 | Behaviour | Input | Output |
 | ----------| ---   | ---    |
-| click on answer ||
-|  | <br><br>| |
-|  | <br><br>|
+| 0-50 | scored less than half | retake the test |
+| 50-80  | scored above half | average |
+| 80-100  | scored more than | Excellent |
 ## Technologies Used
 * Html
 * Css
