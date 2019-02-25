@@ -24,7 +24,7 @@ function getResult(sum) {
   }
 }
 
-displayResult = getResult(sum1);
+displayResult = sum1 + getResult(sum1);
 
 $("#display").text(displayResult);
   });
