@@ -1,9 +1,9 @@
-.takeTest {
+h1 {
   color: blue;
   font-family: "proxima nova";
   font-weight: 100;
   font-size: 56px;
-  text-align: center;
+
 
   border: solid 2px blue;
   border-radius: 50px;
@@ -11,6 +11,3 @@
   padding: 10px 80px
 
 }
-
-.takeTest:hover
-background-color:blue;
